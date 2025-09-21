@@ -8,3 +8,6 @@ Funcionalidades
 - Visualización de la lista de amigos en pantalla.
 - Botón para realizar el sorteo aleatorio.
 - Muestra el nombre sorteado como resultado.
+
+
+Espero que sea de su agrado y disfruten del juego 
